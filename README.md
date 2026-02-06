@@ -40,7 +40,7 @@ The system displays all three clearly and then evaluates the student answers aut
 ![Preview](screenshots/preview.png)
 
 ### Evaluation Result
-![Evaluation](screenshots/evaluation.png)
+![Evaluation](screenshots/Evaluation.png)
 
 ---
 
