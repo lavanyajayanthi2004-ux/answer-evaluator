@@ -51,13 +51,13 @@ answer-evaluator/
 
 │
 
-├── app.py # Main Streamlit application
+├── app.py -Main Streamlit application
 
-├── requirements.txt # Required Python packages
+├── requirements.txt  -Required Python packages
 
-├── README.md # Project documentation
+├── README.md  -Project documentation
 
-└── .env # API key (not to be pushed to GitHub)
+└── .env  -API key (not to be pushed to GitHub)
 
 
 
