@@ -46,12 +46,19 @@ The system displays all three clearly and then evaluates the student answers aut
 
 ##Project Structure
 
+
 answer-evaluator/
+
 │
+
 ├── app.py # Main Streamlit application
+
 ├── requirements.txt # Required Python packages
+
 ├── README.md # Project documentation
+
 └── .env # API key (not to be pushed to GitHub)
+
 
 
 ---
