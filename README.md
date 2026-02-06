@@ -44,7 +44,7 @@ The system displays all three clearly and then evaluates the student answers aut
 
 ---
 
-##Project Structure
+## Project Structure
 
 
 answer-evaluator/
@@ -63,21 +63,21 @@ answer-evaluator/
 
 ---
 
-##Environment Setup
+## Environment Setup
 
 Create a `.env` file in the project root and add your Groq API key:
 
 ```env
 GROQ_API_KEY=your_api_key_here
 ```
-How to Run
+# How to Run
 
 Install dependencies:
 ```
 pip install -r requirements.txt
 ```
 
-Run the app:
+# Run the app:
 ```
 python -m streamlit run evaluator.py
 ```
